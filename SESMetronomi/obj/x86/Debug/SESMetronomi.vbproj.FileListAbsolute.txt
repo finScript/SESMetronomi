@@ -1,0 +1,21 @@
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\bin\Debug\SESMetronomi.exe
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\bin\Debug\SESMetronomi.pdb
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\bin\Debug\SESMetronomi.xml
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.Form1.resources
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.Resources.resources
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.vbproj.GenerateResource.Cache
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.exe
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.xml
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.pdb
+C:\Users\Elias\AppData\Local\Temporary Projects\SESMetronomi\obj\x86\Debug\SESMetronomi.vbprojResolveAssemblyReference.cache
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.exe
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.xml
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.pdb
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\bin\Debug\SESMetronomi.exe
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\bin\Debug\SESMetronomi.pdb
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\bin\Debug\SESMetronomi.xml
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.Resources.resources
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.vbproj.GenerateResource.Cache
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.Player.resources
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.Setup.resources
+C:\Users\Elias\documents\visual studio 2010\Projects\SESMetronomi\SESMetronomi\obj\x86\Debug\SESMetronomi.vbprojResolveAssemblyReference.cache
