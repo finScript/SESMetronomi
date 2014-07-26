@@ -321,7 +321,7 @@ Partial Class Setup
         '
         Me.NewToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.liSong, Me.liRule})
         Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
-        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.NewToolStripMenuItem.Text = "New"
         '
         'liSong
@@ -339,25 +339,25 @@ Partial Class Setup
         'liOpen
         '
         Me.liOpen.Name = "liOpen"
-        Me.liOpen.Size = New System.Drawing.Size(152, 22)
+        Me.liOpen.Size = New System.Drawing.Size(114, 22)
         Me.liOpen.Text = "Open"
         '
         'liSave
         '
         Me.liSave.Name = "liSave"
-        Me.liSave.Size = New System.Drawing.Size(152, 22)
+        Me.liSave.Size = New System.Drawing.Size(114, 22)
         Me.liSave.Text = "Save"
         '
         'liSaveAs
         '
         Me.liSaveAs.Name = "liSaveAs"
-        Me.liSaveAs.Size = New System.Drawing.Size(152, 22)
+        Me.liSaveAs.Size = New System.Drawing.Size(114, 22)
         Me.liSaveAs.Text = "Save As"
         '
         'liExit
         '
         Me.liExit.Name = "liExit"
-        Me.liExit.Size = New System.Drawing.Size(152, 22)
+        Me.liExit.Size = New System.Drawing.Size(114, 22)
         Me.liExit.Text = "Exit"
         '
         'btnPlay
@@ -366,7 +366,7 @@ Partial Class Setup
         Me.btnPlay.Image = CType(resources.GetObject("btnPlay.Image"), System.Drawing.Image)
         Me.btnPlay.Location = New System.Drawing.Point(12, 553)
         Me.btnPlay.Name = "btnPlay"
-        Me.btnPlay.Size = New System.Drawing.Size(50, 149)
+        Me.btnPlay.Size = New System.Drawing.Size(50, 56)
         Me.btnPlay.TabIndex = 6
         Me.btnPlay.UseVisualStyleBackColor = False
         '
@@ -393,7 +393,7 @@ Partial Class Setup
         Me.txtPlaylist.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
         Me.txtPlaylist.Location = New System.Drawing.Point(71, 573)
         Me.txtPlaylist.Name = "txtPlaylist"
-        Me.txtPlaylist.Size = New System.Drawing.Size(806, 129)
+        Me.txtPlaylist.Size = New System.Drawing.Size(806, 36)
         Me.txtPlaylist.TabIndex = 9
         Me.txtPlaylist.Text = ""
         '
@@ -409,9 +409,9 @@ Partial Class Setup
         '
         'btnCompile
         '
-        Me.btnCompile.Location = New System.Drawing.Point(11, 708)
+        Me.btnCompile.Location = New System.Drawing.Point(11, 628)
         Me.btnCompile.Name = "btnCompile"
-        Me.btnCompile.Size = New System.Drawing.Size(866, 23)
+        Me.btnCompile.Size = New System.Drawing.Size(866, 24)
         Me.btnCompile.TabIndex = 15
         Me.btnCompile.Text = "Compile Playlist"
         Me.btnCompile.UseVisualStyleBackColor = True
@@ -420,7 +420,7 @@ Partial Class Setup
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(891, 738)
+        Me.ClientSize = New System.Drawing.Size(891, 664)
         Me.Controls.Add(Me.btnCompile)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.txtPlaylist)
